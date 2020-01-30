@@ -9,3 +9,4 @@ This repository has two main components:
 	3. Create ODYM format data files (excel sheets) with the full interpolated time series data, one file for each target table sheet
 
 Questions, comments, please contact Tomer tomer.fishman@idc.ac.il
+https://zenodo.org/badge/237208012.svg
