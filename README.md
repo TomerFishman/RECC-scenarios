@@ -1,5 +1,7 @@
 # RECC-scenarios
-This is the repository for a prospective scenario formulation and quantification approach. The method is described in:
+This is the repository for a prospective scenario formulation and quantification approach for service provisioning, product and material cycles, material efficiency strategies - consistent with existing socioeconomic scenario storylines. 
+
+The method is described in:
 
 > Tomer Fishman, Niko Heeren, Stefan Pauliuk, Peter Berrill, Qingshi Tu, Paul Wolfram, and Edgar G. Hertwich. “A Comprehensive Set of Global Scenarios of Housing, Mobility, and Material Efficiency for Material Cycles and Energy Systems Modeling.” Journal of Industrial Ecology 25, no. 2 (March 31, 2021): 305–20. https://doi.org/10.1111/jiec.13122.
 
